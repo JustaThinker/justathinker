@@ -1,1 +1,21 @@
-![banner](https://user-images.githubusercontent.com/23727056/87433896-78ae9700-c607-11ea-9ca6-9cdbe3f67998.jpg)
+<h1 align="center">🌌 JustaThinker</h1>
+<p align="center">
+Minimalist • Builder • Healer  
+</p>
+
+---
+
+### 🌀 Who Am I?
+I live at the intersection of **code and care**.  
+- By day: a paramedical student mastering orthopedic procedures.  
+- By night: a custom ROM porter, branding geek, and gradient explorer.  
+- Always: chasing ideas that feel *clean, smooth, and alive*.  
+
+---
+
+### 🔮 My Universe
+```ascii
+┌───────────────────────────────┐
+│   ROMs   |   Branding   |   Ortho │
+└───────────────────────────────┘
+
