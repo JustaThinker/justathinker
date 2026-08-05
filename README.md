@@ -20,14 +20,11 @@
 
 </div>
 
-
-while (alive) {
-    learn();
-    build();
-    improve();
-}
----
-
+while (alive)
+     { learn(); 
+       build(); 
+       improve(); 
+  }
 
 </div>
 
