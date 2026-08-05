@@ -22,14 +22,34 @@
 
 ---
 
-# About
+## 👋 About Me
 
-👤 Name        : Shyam
-💻 Alias       : JustaThinker
-📱 Focus       : Android Development
-🌱 Learning    : Flutter
-⚙️ Expertise   : Custom ROM Development
-🐧 OS          : Linux
+<table>
+<tr>
+<td><strong>Name</strong></td>
+<td>Shyam</td>
+</tr>
+
+<tr>
+<td><strong>Alias</strong></td>
+<td>JustaThinker</td>
+</tr>
+
+<tr>
+<td><strong>Role</strong></td>
+<td>Android Developer & ROM Porter</td>
+</tr>
+
+<tr>
+<td><strong>Learning</strong></td>
+<td>Flutter</td>
+</tr>
+
+<tr>
+<td><strong>OS</strong></td>
+<td>Linux</td>
+</tr>
+</table>
 ---
 
 # GitHub Stats
