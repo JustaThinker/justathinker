@@ -11,9 +11,6 @@
 
 ## Technical Arsenal
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,java,cpp,c,android,firebase,git,vscode,linux,figma&perline=5" />
-</p>
 
 **Languages:**  
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
