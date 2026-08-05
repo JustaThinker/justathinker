@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f0f0f,100:2d2d2d&text=Shyam&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=38" width="100%" />
 
 # Shyam
 
@@ -18,20 +17,4 @@
 <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
-</div>
 
-while (alive)
-     { learn(); 
-       build(); 
-       improve(); 
-  }
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0f0f0f,100:2d2d2d"/>
-
-</div>
