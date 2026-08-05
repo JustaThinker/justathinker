@@ -16,6 +16,6 @@ I live at the intersection of **code and care**.
 ### 🔮 My Universe
 ```ascii
 ┌───────────────────────────────┐
-│   ROMs   |   Branding   |   Ortho │
+│    ROMs      |    Branding    │
 └───────────────────────────────┘
 
