@@ -1,63 +1,80 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100%" alt="Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f0f0f,100:2d2d2d&text=Shyam&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=38" width="100%" />
 
 # Shyam
 
-Android Developer • Custom ROM Porter • Open Source
+### Android Developer • Custom ROM Porter • Open Source Enthusiast
 
-> *Building clean Android experiences.*
+*Building clean Android experiences.*
 
 <br>
 
-[![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk)](https://www.java.com/)
-[![Flutter](https://img.shields.io/badge/Flutter-black?style=for-the-badge&logo=flutter)](https://flutter.dev/)
-[![Android](https://img.shields.io/badge/Android-black?style=for-the-badge&logo=android)](https://developer.android.com/)
-[![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)](https://kernel.org/)
-[![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)](https://git-scm.com/)
+<p>
+<img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter-111111?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android-111111?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
 
 </div>
 
 ---
 
-## About
+# About
 
-Name        : Shyam
-Alias       : JustaThinker
-Focus       : Android Development
-Currently   : Flutter
-OS          : Linux
+👤 Name        : Shyam
+💻 Alias       : JustaThinker
+📱 Focus       : Android Development
+🌱 Learning    : Flutter
+⚙️ Expertise   : Custom ROM Development
+🐧 OS          : Linux
+---
+
+# GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true"/>
+
+</div>
 
 ---
 
-GitHub Stats
+# Currently Building
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=transparent&hide_border=true"/>
-</p><p align="center">
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true"/>
-</p>---
-
-Currently Building
-
-- 📱 Android Apps
-- ⚙️ Custom ROMs
-- 🎨 Beautiful UI
-- 🌱 Learning Flutter
+- 📱 Android Applications
+- ⚙️ Custom Android ROMs
+- 🎨 Beautiful Mobile UI
+- 🚀 Open Source Projects
+- 🌱 Flutter Apps
 
 ---
 
-Quote
+# Quote
 
 while (alive) {
     learn();
     build();
     improve();
 }
+---
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&no-bg=true&row=1&column=6"/>
+
+</div>
 
 ---
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:111111,100:333333&section=footer"/>
-</p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0f0f0f,100:2d2d2d"/>
+
+</div>
