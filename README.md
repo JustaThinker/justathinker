@@ -1,4 +1,4 @@
-<div align="center">
+l<div align="center">
 
 ### Android Developer • Custom ROM Porter • Open Source Enthusiast
 
@@ -8,7 +8,7 @@
 
 
 **Languages:**  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff&style=flat-square)
+![Kotlin](https://img.shields.io/badge/Kotlin-02569B?logo=flutter&logoColor=fff&style=flat-square)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat-square)
 ![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff&style=flat-square)
